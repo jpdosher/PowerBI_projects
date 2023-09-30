@@ -15,11 +15,3 @@ Este vídeo informativo explica como funcionam as APIs e porque elas são úteis
 - Uso do #PostMan para testes da API
 
 ---
-
-11/02/23
-
-1. Adicionada tabela base
-2. Utilizada tabela base para desmembrar em outras tabelas
-    1. Expandidas colunas conforme necessidade
-    2. Criadas colunas personalizadas para novas consultas à API
-    3. Revisada modelagem -sem muitas alterações
