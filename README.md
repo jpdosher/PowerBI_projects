@@ -4,7 +4,7 @@
 
 ## Pokemon API
 
-[https://pokeapi.co/](https://pokeapi.co/) -API com 250 milhões de calls por mês
+[https://pokeapi.co/](https://pokeapi.co/) -API with 250 MI of calls per month
 
 [https://www.youtube.com/watch?v=_oMMpZKUcvE&t=742s](https://www.youtube.com/watch?v=_oMMpZKUcvE&t=742s) -vídeo base 
 
